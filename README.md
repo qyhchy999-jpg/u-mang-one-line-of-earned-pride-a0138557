@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/qyhchy999-jpg/u-mang-one-line-of-earned-pride-a0138557/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
 [![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/qyhchy999-jpg/u-mang-one-line-of-earned-pride-a0138557/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
 
-One line, 215 characters: a quiet, earned moment of pride — a month of late nights rewriting a failing test suite by hand, and when the build finally goes green she just nods once and goes home. "No speech, no applause" is the point: the loudest pride is the one that does not ask to be seen.
+One line, 197 characters: a quiet, earned moment of pride — he carried a piano up four flights alone because the movers cancelled, set it down, tuned it, and played one chord before leaving. "No audience, no photo" is the point: the loudest pride is the one that does not ask to be seen. A single chord does all the emotional work, and the note hanging in the empty room is what the judge remembers after the line is over.
 
 ## Entry
 
@@ -22,4 +22,5 @@ Then check the output is UTF-8 text of 1 to 240 characters, and run it twice to 
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: the nod stayed, the smile went — the pride stays hers alone. -->
+<!-- Rewritten 2026-11-27: the piano replaces the test suite — the pride is in the carrying, not the playing. -->
+<!-- One chord, not a song — a song would be a performance. Quiet is the whole entry. -->
